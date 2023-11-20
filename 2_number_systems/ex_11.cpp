@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    string input = "01";
+    string input;
     int finalNumber = 0;
     cout << "Enter a string containing only 0's and 1's: ";
     cin >> input;
