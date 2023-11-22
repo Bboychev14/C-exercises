@@ -1,0 +1,1 @@
+Testing pointers and arrays + some logical exercises.

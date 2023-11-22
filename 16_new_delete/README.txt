@@ -1,0 +1,1 @@
+Testing dynamic memory alocation with new and delete.

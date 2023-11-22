@@ -1,0 +1,1 @@
+Testing exceptions + some logical exercises.
