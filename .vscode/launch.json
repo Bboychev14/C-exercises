@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/Repo/C-exercises/10_Game_Menu",
-      "program": "e:/Repo/C-exercises/10_Game_Menu/build/Debug/outDebug",
+      "cwd": "e:/Repo/C-exercises/TU_PIK",
+      "program": "e:/Repo/C-exercises/TU_PIK/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
